@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Padre Rico, Padre Pobre",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "name": "El cuadrante del flujo de dinero",
+        "authorId": "1"
+    },
+    {
+        "id": "3",
+        "name": "Por qué queremos que usted sea rico: dos hombres, un mensaje",
+        "authorId": "1"
+    },
+    {
+        "id": "4",
+        "name": "Piensa y hazte rico",
+        "authorId": "2"
+    }
+]
