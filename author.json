@@ -1,12 +1,10 @@
 [
     {
         "id": "1",
-        "name": "Robert",
-        "lastname": "Kiyosaki"
+        "name": "Robert"
     },
     {
         "id": "2",
-        "name": "napoleon",
-        "lastname": "hill"
+        "name": "napoleon"
     }
 ]
